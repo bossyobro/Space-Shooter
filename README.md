@@ -50,7 +50,6 @@ Lykke til og ha det gøy!
 Nå er du klar til å kjøre spillet!
 
 
-
 ### FAQ
 
 #### 1. Hva gjør jeg hvis spillet ikke starter?
@@ -79,6 +78,5 @@ Nå er du klar til å kjøre spillet!
 #### 6. Hvordan rapporterer jeg feil eller foreslår forbedringer?
 - Gå til GitHub-repositoriet og opprett en "Issue" med en detaljert beskrivelse av problemet eller forslaget ditt.
 
-#### 7. Kan jeg bidra til utviklingen av spillet?
-- Absolutt! Fork prosjektet på GitHub, gjør endringer, og send inn en pull request.
+
 
