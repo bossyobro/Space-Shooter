@@ -99,7 +99,8 @@ def display_score(current_time):
     screen.blit(text_surf, text_rect)
     pygame.draw.rect(screen, (255,240,255), text_rect.inflate(20,10).move(0,-8), 5, 10)
 
-# Simple setup
+
+# Game setup
 
 pygame.init()
 WINDOW_WIDTH, WINDOW_HEIGHT = 1280, 720
@@ -128,7 +129,7 @@ player = Player(all_sprites)
 # Custom events -> meteoer event
 
 meteor_event = pygame.event.custom_type()
-pygame.time.set_timer(meteor_event, 500)
+pygame.time.set_timer(meteor_event, 350)
 
   
 while running:
